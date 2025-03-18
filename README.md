@@ -8,13 +8,6 @@ Please visit our [project page](https://pang-yatian.github.io/Dreamdance-webpage
 
 <h3>
 
-## 🌅 Motivation
-
-<div  align="center">    
- <img src="assets/head.png" width = "666"  align=center />
-</div>
-
-
 
 ## 📊 Framework
 <img src="assets/framework.png"/>
