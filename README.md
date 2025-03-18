@@ -2,14 +2,18 @@
    DreamDance: Animating Human Images by Enriching 3D Geometry Cues from 2D Poses
 </h2>
 
-</h5>
+
 You can find the [dataset](https://pang-yatian.github.io/Dreamdance-webpage/resources/full_video_ids.txt) here.
 Please visit our [project page](https://pang-yatian.github.io/Dreamdance-webpage/) for the video results.
 
 <h3>
 
 ## 🌅 Motivation
-<img src="assets/head.png"/>
+
+<div  align="center">    
+ <img src="assets/head.png" width = "666"  align=center />
+</div>
+
 
 
 ## 📊 Framework
